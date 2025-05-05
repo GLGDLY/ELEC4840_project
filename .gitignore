@@ -1,0 +1,8 @@
+__pycache__/
+venv/
+
+dataset/
+runs/
+output/
+
+*.pth
