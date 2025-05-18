@@ -2,7 +2,12 @@ __pycache__/
 venv/
 
 dataset/
+dataset_unlabeled/
+temp_pseudo_labels/
 runs/
 output/
 
 *.pth
+*_results.txt
+*.png
+results.md
